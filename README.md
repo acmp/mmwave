@@ -1,9 +1,11 @@
 # mmwave
 Home Assistant presence sensor using ESP-01s and LD2410 with ESPHome
-![3D render by EasyEDA](url "/blob/main/mmwave_render.png")
+
+<img src="https://github.com/acmp/mmwave/blob/main/mmwave_render.png?raw=true" style="width:150px">
 
 YAML is from:
-
+  (I Really need to find this URL and update this file)
+  
 Board design is compact and intended for small stand alone presence sensors. The resistor positions are to allow support for older ESP-01 units, they are not required for ESP-01s
 
 I'd recommend panlising this board if you send it for manufacture, you will get a lot more boards for not much extra cost.
