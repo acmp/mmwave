@@ -1,5 +1,6 @@
 # mmwave
 Home Assistant presence sensor using ESP-01s and LD2410 with ESPHome
+![3D render by EasyEDA](url "/blob/main/mmwave_render.png")
 
 YAML is from:
 
