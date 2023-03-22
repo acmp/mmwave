@@ -5,6 +5,8 @@ Home Assistant presence sensor using ESP-01s and LD2410 with ESPHome
 
 YAML is from:
   (I Really need to find this URL and update this file)
+  Theres some good info here, but its not what i used. still looking for that:
+  https://community.home-assistant.io/t/ld2410-esphome-tips/477058/100
   
 Board design is compact and intended for small stand alone presence sensors. The resistor positions are to allow support for older ESP-01 units, they are not required for ESP-01s
 
