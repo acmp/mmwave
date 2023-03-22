@@ -4,7 +4,7 @@ Home Assistant presence sensor using ESP-01s and LD2410 with ESPHome
 <img src="https://github.com/acmp/mmwave/blob/main/mmwave_render.png?raw=true" style="width:150px">
 
 YAML is from:
-  (I Really need to find this URL and update this file)
+
   Theres some good info here, but its not what i used. still looking for that:
   https://community.home-assistant.io/t/ld2410-esphome-tips/477058/100
   
