@@ -6,6 +6,8 @@ Home Assistant presence sensor using ESP-01s and LD2410 with ESPHome
 YAML is from:
   https://community.home-assistant.io/t/mmwave-wars-one-sensor-module-to-rule-them-all/453260/2
   Thanks to crlogic for the post, it was really helpful
+  The reference .h code is posted here on page, copy it and save it on your system to match the file referenced in they yaml:
+  https://community.home-assistant.io/t/mmwave-wars-one-sensor-module-to-rule-them-all/453260/2#uart_read_line_sensor_ld2410v3h-7
   
 Board design is compact and intended for small stand alone presence sensors. The resistor positions are to allow support for older ESP-01 units, they are not required for ESP-01s
 
